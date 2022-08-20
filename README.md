@@ -5,4 +5,5 @@
  cd /temp
  main.sh
  ```
- 
+ cd ansible
+ cp ansible.yaml ansible2.yaml
